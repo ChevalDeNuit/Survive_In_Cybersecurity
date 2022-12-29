@@ -2,7 +2,7 @@
 
 __Display help message for the command__
 
-`command /?`
+`command /?` or `command help`
 
 __Display computer name__
 
@@ -19,3 +19,11 @@ __Display network configuration__
 __Clear command prompt__
 
 `cls`
+
+__Display protocol statistics and current TCP/IP network connections__
+
+`netstat`
+
+__Manage network resources__
+
+`net`
