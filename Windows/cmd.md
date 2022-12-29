@@ -1,5 +1,9 @@
 # Cmd useful commands
 
+__All commands listed__
+
+https://ss64.com/nt/
+
 __Display help message for the command__
 
 `command /?` or `command help`
